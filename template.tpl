@@ -20,7 +20,7 @@ ___INFO___
     "displayName": "",
     "thumbnail": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADAAAAAwCAQAAAD9CzEMAAAB7UlEQVRYw+2XoZLCMBCGf1GBQCAQiBMViBMIxAnECWYQCGQEAoGoRFQiEBVIBIIHQCAreQBEBQLBAyAqECcRFScqcibda6FNk3SYuZljo2g3/9dNNpsF+FMWivE042K8AM8GzPBpBGBgKvIuOKJCRLExxIjLEa74Rl0EQwwOXo5waRkidJTlB0Ke68Tgw1IG1BGoyieIe/kmpvBxRIgQAXYYo/6AUJQHgFFGvoUNLcHv+IaHRgYxMEvaIW4P4sm44qPqmXBzvj0bB6siP0pJXbBADzZs9LHEVwphHIWNiJJvdrfpNSxTC9UwA2xJvp/7fkIIz0S+TdOdQp8lLVNdHzAXk88SnxrtxVgfEJR+fzqGnVqdT5fiq/htS2f2hVcg1cp9qHa52MIrfBbgjVJVG5BsX0sK6AmvoxyQZyfhNJF6Lai4a5snph4kPhYuwmuqD+hSoCNJe5Cc9abJWd7T5flekKJJpd2Y1aIOCUQ5UTj09laSCBJzUhlxwEQI2XBwpucxhlVuhLX0uuHgcKveaY7kToskCVCSQdm92OfKbzN1ylLvoxhirB+QHk7idF8RYI723YnwVbvBpAlca0RswVdtOFmqCewaNAeliJV6j1nQ085UEjM26HZc9aRdFcrLy7Bb/Uy8/gT+A8C/tB8qFad3nxlWoQAAAABJRU5ErkJggg\u003d\u003d"
   },
-  "description": "Custom GTM server-side client fetching current weather conditions from a OpenWeather webservice.",
+  "description": "Custom GTM server-side client fetching current weather conditions from an OpenWeather webservice.",
   "containerContexts": [
     "SERVER"
   ]
