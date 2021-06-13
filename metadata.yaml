@@ -1,1 +1,4 @@
 homepage: "https://pmeyer.dk/"
+versions:
+  - sha: d2f2a37740d14c00b829654f9b1755eeb374a8bb
+    changeNotes: Initial template commit
