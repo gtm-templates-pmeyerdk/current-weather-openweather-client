@@ -1,4 +1,4 @@
 homepage: "https://pmeyer.dk/"
 versions:
-  - sha: 8477fc7023b0cbd4fffe8a4b765cfa9d593f9245
+  - sha: 11db735d5a82f631f0d2c1d1a50df441b742e3d8
     changeNotes: Initial template commit
