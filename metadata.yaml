@@ -1,4 +1,5 @@
 homepage: "https://pmeyer.dk/"
+documentation: "https://pmeyer.dk/google-tag-manager/current-weather-openweather-client/"
 versions:
   - sha: 11db735d5a82f631f0d2c1d1a50df441b742e3d8
     changeNotes: Initial template commit
