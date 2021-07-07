@@ -349,7 +349,7 @@ if (getRequestPath() === "/weather" && originAllowed === true) {
       const weatherData = JSON.parse(body);      
       eventData = {
         event_name: "weather_current",
-        weatherConditions: weatherData.weather[0].main,
+        weather_conditions: weatherData.weather[0].main,
         weather_data_time: weatherData.dt,
         weather_data_raw: weatherData,
         weather_description: weatherData.weather[0].description,
